@@ -4,9 +4,9 @@
 
 A tiny Helper Library for Tensorflow Probability. It helps you to quickly prototype probabilistic models and run automated inference without much hassle.
 
-- Inference Button: Single function call for running inference with MCMC
-- Plotting: Inference returns an instance of `arviz.InferenceData` which enables user to use `arviz` for plotting
-- Progress Bar: A smart tqdm-based progress bar to track the progress of MCMC ▓▓▓▓▓▓▓▓▓▓░░░░░
+- **Inference Button** Single function call for running inference with MCMC
+- **Plotting** Inference returns an instance of `arviz.InferenceData` which enables user to use `arviz` for plotting
+- **Progress Bar** A smart tqdm-based progress bar to track the progress of MCMC ▓▓▓▓▓▓▓▓▓▓░░░░░
 
 
 ## Getting Started
