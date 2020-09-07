@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/tensorflow_probability-0.11.0-brightgreen) ![](https://img.shields.io/badge/license-GNU%20GPL%20v3.0-blue)
 
-![](images/tfph.png)
-
----
+<p align="center">
+  <img width="350" src="images/tfph.png">
+</p>
 
 A tiny Helper Library for Tensorflow Probability. It helps you to quickly prototype probabilistic models and run automated inference without much hassle.
 
