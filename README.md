@@ -8,6 +8,25 @@ A tiny Helper Library for Tensorflow Probability. It helps you to quickly protot
 - **Plotting** Inference returns an instance of `arviz.InferenceData` which enables user to use `arviz` for plotting
 - **Progress Bar** A smart tqdm-based progress bar to track the progress of MCMC ▓▓▓▓▓▓▓▓▓▓░░░░░
 
+## Step 1: Get or Make Data
+
+![](/home/suriya/projects/tfp_helper/images/tfp_1_sim_coin_toss.png)
+
+## Step 2: Joint Log-Probability
+
+![](/home/suriya/projects/tfp_helper/images/tfp_2_1_run_inference.png)
+
+## Step 3: Inference
+
+![](/home/suriya/projects/tfp_helper/images/tfp_2_2_run_inference.png)
+
+## Step 4: Plotting
+
+![](/home/suriya/projects/tfp_helper/images/tfp_3_plot_arviz.png)
+
+## Step 4.1: More Plotting
+
+![](/home/suriya/projects/tfp_helper/images/tfp_4_hist_plot.png)
 
 ## Getting Started
 
