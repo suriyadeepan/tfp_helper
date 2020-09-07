@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/tensorflow_probability-0.11.0-yellow) ![](https://img.shields.io/badge/license-GNU%20GPL%20v3.0-blue)
+![](https://img.shields.io/badge/tensorflow_probability-0.11.0-brightgreen) ![](https://img.shields.io/badge/license-GNU%20GPL%20v3.0-blue)
 
 # tfp_helper
 
