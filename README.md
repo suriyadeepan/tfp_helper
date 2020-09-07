@@ -4,7 +4,7 @@
   <img width="350" src="images/tfph.png">
 </p>
 
-A tiny Helper Library for Tensorflow Probability. It helps you to quickly prototype probabilistic models and run automated inference without much hassle.
+A tiny helper library for Tensorflow Probability. It helps you to quickly prototype Probabilistic Models and run Automated Inference without much hassle.
 
 - **Inference Button** Single function call for running inference with MCMC
 - **Plotting** Inference returns an instance of `arviz.InferenceData` which enables user to use `arviz` for plotting
