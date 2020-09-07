@@ -12,6 +12,8 @@ A tiny Helper Library for Tensorflow Probability. It helps you to quickly protot
 
 ![](images/tfp_1_sim_coin_toss.png)
 
+![](images/coin_sim_plot.png)
+
 ## Step 2: Joint Log-Probability
 
 ![](images/tfp_2_1_run_inference.png)
@@ -24,9 +26,13 @@ A tiny Helper Library for Tensorflow Probability. It helps you to quickly protot
 
 ![](images/tfp_3_plot_arviz.png)
 
-## Step 4.1: More Plotting
+![](images/trace_plot.png)
+
+## Step 5: More Plotting
 
 ![](images/tfp_4_hist_plot.png)
+
+![](images/hist_plot.png)
 
 ## Getting Started
 
